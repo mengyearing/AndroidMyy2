@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="uc_main_linear">线性布局</string>
+    <string name="uc_main_relative">相对布局</string>
+    <string name="uc_main_table">表格布局</string>
+    <string name="uc_main_frame">帧布局</string>
+    <string name="uc_main_grid">网格布局</string>
+</resources>
